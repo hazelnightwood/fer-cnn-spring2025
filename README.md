@@ -4,8 +4,8 @@ This repository contains our final project for Math 156, where we explore facial
 
 ## Notebooks
 
-- `CK+_trial_good.ipynb`: Training TinyCNN on the CK+ dataset
-- ``: Fine-tuning MobileNetV2 on the same dataset
+- ``: TinyCNN from scratch and fine-tuning MobileNetV2 on the primary dataset
+- `CK+_final.ipynb`: Training TinyCNN and MobileNetV2 on the CK+ dataset
 
 
 Each notebook includes model training, validation, and final test evaluation.
