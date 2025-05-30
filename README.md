@@ -26,5 +26,3 @@ Each notebook includes model training, validation, and final test evaluation.
 3. Run all cells to train and evaluate.
 
 
-- To load kaggle datasets into Google colab, refer to https://www.kaggle.com/discussions/general/74235
-- To Do: list of packages installed in case user wants to run on Jupyter notebook
