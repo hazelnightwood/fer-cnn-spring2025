@@ -6,6 +6,7 @@ This repository contains our final project for Math 156, where we explore facial
 
 - `Math 156 Group Project (main).ipynb`: TinyCNN from scratch and fine-tuning MobileNetV2 on the primary dataset
 - `CK+_final.ipynb`: Training TinyCNN and MobileNetV2 on the CK+ dataset
+- `GradCAM-Group-Project.ipynb`: Using GradCAM to visualize regions that influenced the most
 
 
 Each notebook includes model training, validation, and final test evaluation.
