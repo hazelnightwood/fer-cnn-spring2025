@@ -6,7 +6,7 @@ This repository contains our final project for Math 156, where we explore facial
 
 - `CK+_trial_good.ipynb`: Training TinyCNN on the CK+ dataset
 - ``: Fine-tuning MobileNetV2 on the same dataset
-- ``: A Keras-based comparison with consistent train/val/test split
+
 
 Each notebook includes model training, validation, and final test evaluation.
 
@@ -17,7 +17,7 @@ Each notebook includes model training, validation, and final test evaluation.
 - [Primary Dataset (Kaggle)](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset/data)
 - [CK+ Dataset (Kaggle)](https://www.kaggle.com/datasets/davilsena/ckdataset)
   
-- **Frameworks**: PyTorch and TensorFlow/Keras
+- **Frameworks**: PyTorch
 
 ## How to Run
 
