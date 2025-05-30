@@ -4,7 +4,7 @@ This repository contains our final project for Math 156, where we explore facial
 
 ## Notebooks
 
-- ``: TinyCNN from scratch and fine-tuning MobileNetV2 on the primary dataset
+- `Math 156 Group Project (main).ipynb`: TinyCNN from scratch and fine-tuning MobileNetV2 on the primary dataset
 - `CK+_final.ipynb`: Training TinyCNN and MobileNetV2 on the CK+ dataset
 
 
