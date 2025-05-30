@@ -24,8 +24,8 @@ Each notebook includes model training, validation, and final test evaluation.
 
 1. Open any notebook in Google Colab.
 2. Ensure dataset paths match your environment:
-   - for `Math 156 Group Project (main).ipynb` and `GradCAM-Group-Project.ipynb`: upload `kaggle.json` and run all the code.
-   - for `CK+_final.ipynb`: the dataset is provided in `ckextended.csv`, make sure they are in the same path and run all the code.
+   - for `Math 156 Group Project (main).ipynb` and `GradCAM-Group-Project.ipynb`: upload `kaggle.json`.
+   - for `CK+_final.ipynb`: the dataset is provided in `ckextended.csv`, make sure they are in the same path.
 4. Run all cells to train and evaluate.
 
 
